@@ -1,5 +1,5 @@
 # Country: Russia (RU)
-# IP version: IPv4
+# IPversion: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
